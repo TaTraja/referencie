@@ -25,7 +25,7 @@ Link na github :
 
 # *Projekt 3 – https://srg.tatraja.art + Demo videohra na itch.io – Júl/August 2021*
 
-Pripravoval som web pre prípad herného štúdia, nie je to tip top ale učil som sa CSS a JS a Bootstrap, je tam ešte čo robiť ale tam cesta teraz nevedie.
+Pripravoval som web pre prípad herného štúdia, nie je to tip top ale učil som sa trochu CSS a JS a Bootstrap .
 Venoval som sa aj gamedesignu v Unity 3D a trochu C# .
 Spravené boli v podstate 3 hry – Tahova strategia User vs. AI , tá istá hra ale online s API na našom serveri (nedokončené), Hrateľné demo Hit and Run – Zombie.
 
