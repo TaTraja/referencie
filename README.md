@@ -30,13 +30,13 @@ Venoval som sa aj gamedesignu v Unity 3D a trochu C# .
 Spravené boli v podstate 3 hry – Tahova strategia User vs. AI , tá istá hra ale online s API na našom serveri (nedokončené), Hrateľné demo Hit and Run – Zombie.
 
 
-Link na github : 
-
-
 # *Projekt 4 – https://nft.tatraja.art – Január 2022-Marec 2022 and not done yet*
 
 Tento web som robil v spolupráci so studentmi z Dánskej školy – Zealand – Academy of technologies – formou internshipu. 
 Projektu som sa zúčastnil ako team leader a koordinátor. Celý rojekt je postavený na React.js a dizajn je spravený v Tailwind od základu. Dizajn a návrh som podal do rúk študentom, ktorí od mockupov a wireframov sme prešli až k takmer hotovému produktu za cca 3 mesaice, ja som sa venoval backendu a samotnému web3.0 konceptu. Na prácu sme použili CandyMachine v2 od Metaplexu. Po tomto projekte poznám základy Node.js, Tailwindu, GSAP a trochu Three.js, JavaScriptu a TypeScriptu, pracoval som ja s Bashom
+K projektu prikladám časti webu, ako dizajn, kód APPky, ktoré sme robili my, candy-machine je kód Metaplex.
+
+Link na github :
 
 *
 Pracoval som ešte s ďalšími projektmi ktoré buď neuspeli, nedokončili sa alebo boli vytorené za pár hodín 
