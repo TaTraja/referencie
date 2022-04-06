@@ -28,19 +28,23 @@ Link na github : https://github.com/TaTraja/referencie/tree/main/Projekt%202
 Pripravoval som web pre prípad herného štúdia, nie je to tip top ale učil som sa trochu CSS a JS a Bootstrap a jQeuery .
 Venoval som sa aj gamedesignu v Unity 3D a trochu C# .
 Spravené boli v podstate 3 hry – Tahova strategia User vs. AI , tá istá hra ale online s API na našom serveri (nedokončené), Hrateľné demo Hit and Run – Zombie.
+API a Multiplayer už mal zabezpečený setup, matchmaking a gameplay, dalo sa matchnut cez QR kód a mali sme funkčný user management - prikldám ukážku zo strany serveru, ktorý sme budovali na Codeigniteri, taktiež aj stranu klienta z Unity/samotnej hry v prehliadači ktorý bežal na UnityGL.
+K hrateľnej hre prikladám tiež kod na ukážku - dropovanie itemov, enemy controller a gameplay manager.
 
+Link na github : https://github.com/TaTraja/referencie/tree/main/Projekt%203
 
 # *Projekt 4 – https://nft.tatraja.art – Január 2022-Marec 2022 and not done yet*
 
-Tento web som robil v spolupráci so studentmi z Dánskej školy – Zealand – Academy of technologies – formou internshipu. 
+Tento web som robil v spolupráci so studentmi z Dánskej školy – Zealand – Academy of technologies v Køge– formou internshipu. 
 Projektu som sa zúčastnil ako team leader a koordinátor. Celý rojekt je postavený na React.js a dizajn je spravený v Tailwind od základu. Dizajn a návrh som podal do rúk študentom, ktorí od mockupov a wireframov sme prešli až k takmer hotovému produktu za cca 3 mesaice, ja som sa venoval backendu a samotnému web3.0 konceptu. Na prácu sme použili CandyMachine v2 od Metaplexu. Po tomto projekte poznám základy Node.js, Tailwindu, GSAP a trochu Three.js, JavaScriptu a TypeScriptu, pracoval som ja s Bashom
-K projektu prikladám časti webu, ako dizajn, kód APPky, ktoré sme robili my, candy-machine je kód Metaplex.
+K projektu prikladám časti webu, ako dizajn, kód APPky, ktoré sme robili, candy-machine je kód Metaplex.
+
 
 Link na github : https://github.com/TaTraja/referencie/tree/main/Projekt%204
 
 *
 Pracoval som ešte s ďalšími projektmi ktoré buď neuspeli, nedokončili sa alebo boli vytorené za pár hodín 
-– web pre donáškovú službu, fotoblog (z ktorého sa spravil nakoniec tatraja projekt), API k videohre v Unity 3D, eshop. 
+– web pre donáškovú službu, fotoblog (z ktorého sa spravil nakoniec tatraja projekt), eshopy. 
 
 Skúsenosť mám aj s Wordpressom, projekt 1 bol postavený najskôr na WP a neskôr sa prerábal do Codeigniteru lebo WP nebol .. vhodný.
 
