@@ -1,6 +1,6 @@
-# referencie
-zdrojove kody k projektom 
-Projekt 1 – August 2021 – Január 2022
+# Referencie na predchadzajúce projekty
+
+#Projekt 1 – August 2021 – Január 2022
 Bol vytvorený na správu klientských portfólií spoločnosti.
 Web obsahuje funkcie autentifikácie - knižnica ion-auth nám to zabezpečila po nakonfigurovaní.
 Celý projekt je naviazaný na MariaDB databázu, z ktorej vyťahujeme údaje na web. 
@@ -13,7 +13,7 @@ Taktiež prikladám modely s queries do dtb, a views ktoré pripadajú adminovi/
 
 Link na github : 
 -----------------------------------------------------------------------------------------
-Projekt 2 – https://TaTraja.art – október 2021 – Marec 2021, (bude sa trochu pokračovať s vývojom)
+#Projekt 2 – https://TaTraja.art – október 2021 – Marec 2021, (bude sa trochu pokračovať s vývojom)
 
 Zatiaľ jednoduchši projekt, zatiaľ jediná funkcionalita je vyplnenie formulára od klienta a odoslanie mailu na admin mail, zamerali sme sa skôr na obsah a development dalšieho projektu, stále je to WIP a len jedna časť z viacerých.
 Formuláre aj takmer celý web je už v dvoch jazykoch a hádam sa bude napájať aj na databázu.
@@ -33,7 +33,7 @@ Spravené boli v podstate 3 hry – Tahova strategia User vs. AI , tá istá hra
 Link na github : 
 
 ------------------------------------------------------------------------------------------
-Projekt 4 – https://nft.tatraja.art – Január 2022-Marec 2022 and not done yet
+#Projekt 4 – https://nft.tatraja.art – Január 2022-Marec 2022 and not done yet
 
 Tento web som robil v spolupráci so studentmi z Dánskej školy – Zealand – Academy of technologies – formou internshipu. 
 Projektu som sa zúčastnil ako team leader a koordinátor. Celý rojekt je postavený na React.js a dizajn je spravený v Tailwind od základu. Dizajn a návrh som podal do rúk študentom, ktorí od mockupov a wireframov sme prešli až k takmer hotovému produktu za cca 3 mesaice, ja som sa venoval backendu a samotnému web3.0 konceptu. Na prácu sme použili CandyMachine v2 od Metaplexu. Po tomto projekte poznám základy Node.js, Tailwindu, JavaScriptu a TypeScriptu, pracoval som s Bashom
