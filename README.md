@@ -32,6 +32,7 @@ API a Multiplayer už mal zabezpečený setup, matchmaking a gameplay, dalo sa m
 K hrateľnej hre prikladám tiež kod na ukážku - dropovanie itemov, enemy controller a gameplay manager.
 
 Link na github : https://github.com/TaTraja/referencie/tree/main/Projekt%203
+Link na hru : https://smallrobotgames.itch.io/hit-and-run-demo
 
 # *Projekt 4 – https://nft.tatraja.art – Január 2022-Marec 2022 and not done yet*
 
