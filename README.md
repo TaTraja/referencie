@@ -39,7 +39,8 @@ Link na github :
 Tento web som robil v spolupráci so studentmi z Dánskej školy – Zealand – Academy of technologies – formou internshipu. 
 Projektu som sa zúčastnil ako team leader a koordinátor. Celý rojekt je postavený na React.js a dizajn je spravený v Tailwind od základu. Dizajn a návrh som podal do rúk študentom, ktorí od mockupov a wireframov sme prešli až k takmer hotovému produktu za cca 3 mesaice, ja som sa venoval backendu a samotnému web3.0 konceptu. Na prácu sme použili CandyMachine v2 od Metaplexu. Po tomto projekte poznám základy Node.js, Tailwindu, JavaScriptu a TypeScriptu, pracoval som s Bashom
 -------------------------------------
-Pracoval som ešte s ďalšími projektmi ktoré buď neuspeli, nedokončili sa alebo boli vytorené za pár hodín – web pre donáškovú služnu, fotoblog (z ktorého sa spravil tatraja projekt), API k videohre v Unity 3D, eshop. 
+Pracoval som ešte s ďalšími projektmi ktoré buď neuspeli, nedokončili sa alebo boli vytorené za pár hodín 
+– web pre donáškovú službu, fotoblog (z ktorého sa spravil nakoniec tatraja projekt), API k videohre v Unity 3D, eshop. 
 
 Skúsenosť mám aj s Wordpressom, projekt 1 bol postavený najskôr na WP a neskôr sa prerábal do Codeigniteru.
 
