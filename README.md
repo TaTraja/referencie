@@ -1,6 +1,7 @@
 # Referencie na predchadzajúce projekty
-
-#Projekt 1 – August 2021 – Január 2022
+#######################################
+#Projekt 1 – August 2021 – Január 2022#
+#######################################
 Bol vytvorený na správu klientských portfólií spoločnosti.
 Web obsahuje funkcie autentifikácie - knižnica ion-auth nám to zabezpečila po nakonfigurovaní.
 Celý projekt je naviazaný na MariaDB databázu, z ktorej vyťahujeme údaje na web. 
